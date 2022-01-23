@@ -12,12 +12,6 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="sunset"/>
         </main>
-        <footer className="App-footer">
-          <small>
-             Coded by Zahra Adelinia
-          </small>
-          
-        </footer>
 
         <footer className="App-footer">
           <small>
