@@ -2,7 +2,12 @@ body {
   background: #f9f8fe;
 }
 
-a {
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App a {
   color: #504392;
 }
 
